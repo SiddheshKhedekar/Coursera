@@ -5,3 +5,6 @@
     * C1_W1_Lab_2_multi-output
     * C1_W1_Lab_3_siamese-network
     * C1W1_Assignment
+
+* Week 2 - Custom Loss Functions
+    * C1_W2_Lab_1_huber-loss
