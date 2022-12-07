@@ -9,3 +9,4 @@
 * Week 2 - Custom Loss Functions
     * C1_W2_Lab_1_huber-loss
     * C1_W2_Lab_2_huber-object-loss
+    * C1W2_Assignment
