@@ -10,3 +10,6 @@
     * C1_W2_Lab_1_huber-loss
     * C1_W2_Lab_2_huber-object-loss
     * C1W2_Assignment
+
+* Week 3 - Custom Layers
+    * C1_W3_Lab_1_lambda-layer
