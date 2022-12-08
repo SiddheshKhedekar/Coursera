@@ -13,3 +13,4 @@
 
 * Week 3 - Custom Layers
     * C1_W3_Lab_1_lambda-layer
+    * C1_W3_Lab_2_custom-dense-layer
