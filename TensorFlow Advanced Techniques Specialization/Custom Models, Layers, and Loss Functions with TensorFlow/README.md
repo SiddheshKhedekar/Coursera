@@ -16,3 +16,6 @@
     * C1_W3_Lab_2_custom-dense-layer
     * C1_W3_Lab_3_custom-layer-activation
     * C1W3_Assignment
+
+* Week 4 - Custom Models
+    * C1_W4_Lab_1_basic-model
