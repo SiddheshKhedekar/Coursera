@@ -20,3 +20,4 @@
 * Week 4 - Custom Models
     * C1_W4_Lab_1_basic-model
     * C1_W4_Lab_2_resnet-example
+    * C1W4_Assignment
