@@ -24,3 +24,4 @@
 
 * Week 5 - Bonus Content Callbacks
     * C1_W5_Lab_1_exploring-callbacks
+    * C1_W5_Lab_2_custom-callbacks
