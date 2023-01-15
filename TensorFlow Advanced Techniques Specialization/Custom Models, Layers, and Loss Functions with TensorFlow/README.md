@@ -21,3 +21,6 @@
     * C1_W4_Lab_1_basic-model
     * C1_W4_Lab_2_resnet-example
     * C1W4_Assignment
+
+* Week 5 - Bonus Content Callbacks
+    * C1_W5_Lab_1_exploring-callbacks
