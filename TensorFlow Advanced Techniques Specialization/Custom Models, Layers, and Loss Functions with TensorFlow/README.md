@@ -1,4 +1,4 @@
-# Custom Models, Layers, and Loss Functions with TensorFlow
+# [Custom Models, Layers, and Loss Functions with TensorFlow](https://coursera.org/share/d6234f3bff33914e37a1da3cb413d1ed)
 
 * Week 1 - Functional APIs
     * C1_W1_Lab_1_functional-practice
