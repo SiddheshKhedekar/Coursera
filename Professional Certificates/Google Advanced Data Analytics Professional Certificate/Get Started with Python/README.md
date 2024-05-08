@@ -10,3 +10,11 @@
     * Exemplar: Functions
     * Activity: Conditional statements
     * Exemplar: Conditional statements
+* Module 3 - Loops and strings
+    * Annotated follow-along guide: Loops and strings
+    * Activity: While loops
+    * Exemplar: While loops
+    * Activity: For loops
+    * Exemplar: For loops
+    * Activity: Strings
+    * Exemplar: Strings
