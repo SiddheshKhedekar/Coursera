@@ -18,3 +18,13 @@
     * Exemplar: For loops
     * Activity: Strings
     * Exemplar: Strings
+* Module 4 - Loops and strings
+    * Annotated follow-along guide: Data structures in Python
+    * Activity: Lists & tuples
+    * Exemplar: Lists & tuples
+    * Activity: Dictionaries & sets
+    * Exemplar: Dictionaries & sets
+    * Activity: Arrays and vectors with NumPy
+    * Exemplar: Arrays and vectors with NumPy
+    * Activity: Dataframes with pandas
+    * Exemplar: Dataframes with pandas
