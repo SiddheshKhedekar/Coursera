@@ -28,3 +28,10 @@
     * Exemplar: Arrays and vectors with NumPy
     * Activity: Dataframes with pandas
     * Exemplar: Dataframes with pandas
+* Module 5 - Course 2 end-of-course project
+    * Activity: Course 2 Automatidata project lab
+    * Exemplar: Course 2 Automatidata project lab
+    * Activity: Course 2 TikTok project lab
+    * Exemplar: Course 2 TikTok project lab
+    * Activity: Course 2 Waze project lab
+    * Exemplar: Course 2 Waze project lab
