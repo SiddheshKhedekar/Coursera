@@ -18,7 +18,7 @@
     * Exemplar: For loops
     * Activity: Strings
     * Exemplar: Strings
-* Module 4 - Loops and strings
+* Module 4 - Data structures in Python
     * Annotated follow-along guide: Data structures in Python
     * Activity: Lists & tuples
     * Exemplar: Lists & tuples
