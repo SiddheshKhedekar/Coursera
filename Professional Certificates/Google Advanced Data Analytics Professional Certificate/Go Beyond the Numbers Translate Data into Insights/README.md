@@ -8,3 +8,9 @@
     * Annotated follow-along guide: EDA structuring with Python
     * Activity: Structure your data
     * Exemplar: Structure your data
+* Module 3 - Clean your data
+    * Annotated follow-along guide: Work with missing data in a Python notebook
+    * Activity: Address missing data
+    * Exemplar: Address missing data
+    * Activity: Validate and clean your data
+    * Exemplar: Validate and clean your data
