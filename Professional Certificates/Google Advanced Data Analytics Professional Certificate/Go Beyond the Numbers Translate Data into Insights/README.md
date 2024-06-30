@@ -14,3 +14,10 @@
     * Exemplar: Address missing data
     * Activity: Validate and clean your data
     * Exemplar: Validate and clean your data
+* Module 5 - Course 3 end-of-course project
+    * Activity: Course 3 Automatidata project lab
+    * Exemplar: Course 3 Automatidata project lab
+    * Activity: Course 3 TikTok project lab
+    * Exemplar: Course 3 TikTok project lab
+    * Activity: Course 3 Waze project lab
+    * Exemplar: Course 3 Waze project lab
